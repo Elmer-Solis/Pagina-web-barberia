@@ -80,6 +80,24 @@ li a:hover {
     border-color: #c78c19;
 }
 
+.producto li:hover h2 {
+
+    font-size: 33px;
+}
+
 .producto li:active {
     border-color: #088c19;
+}
+
+footer {
+    text-align: center;
+    background: url(/img/bg.jpg);
+    padding: 40px 0;
+}
+
+.copyright {
+
+    font-size: 13px;
+    color: #ffffff;
+    margin: 20px 0;
 }
