@@ -101,3 +101,29 @@ footer {
     color: #ffffff;
     margin: 20px 0;
 }
+
+/* estilos formulario */
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+
+form {
+    background-color: #088c19;
+    margin: 40px 0;
+}
